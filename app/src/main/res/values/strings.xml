@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lab1_VoQuocKhanh_18058521</string>
+    <string name="content_desc_logo_lock">logo_lock</string>
+    <string name="content_desc_logo_circle">logo_circle</string>
 </resources>
